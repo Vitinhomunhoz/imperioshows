@@ -136,13 +136,27 @@ O componente `Contact` permite que os usuários entrem em contato com a empresa.
       /*...*/
 ```
 
-## Contribuição
+## imagens:
 
-Para contribuir com o projeto, siga os passos abaixo:
 
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature (`git checkout -b feature/nome-da-feature`).
-3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/nome-da-feature`).
-5. Abra um Pull Request.
+### Inicio:
+![image](https://github.com/user-attachments/assets/d40bd93c-35de-4883-97f1-146a15678edd)
+
+### Serviços:
+![image](https://github.com/user-attachments/assets/0dc7c4d0-66c1-4603-9408-fff2041e3f6c)
+
+### Sobre nós:
+![image](https://github.com/user-attachments/assets/3f1f2e06-203a-46c8-92f8-5c74219b8f10)
+
+### Portifólio:
+![image](https://github.com/user-attachments/assets/7ecdc8bd-d8e4-482e-a609-e93228057129)
+
+### Contato:
+![image](https://github.com/user-attachments/assets/0f5ccada-8297-46b3-870b-7343cb87d3d7)
+
+## Descrição:
+![image](https://github.com/user-attachments/assets/e5a14824-34e2-4d37-8fee-116fa1a256ff)
+
+
+
 
